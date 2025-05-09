@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a776cbe65e8acd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b9dc17c219252c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d687e0c50f36c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/RSA/RSA攻击理论与代码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RSA攻击理论与代码"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1c3c73358ad9b54",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2c02b45cf22d0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234cfae6908f7178",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "18dc45100d5b5416",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#主要矛盾",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a9952d2fe7c1adcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "c91a12be91b33a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14013b43346a95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aefbf0bc30b89921",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "studing/专业课/操作系统总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "操作系统总结 的反向链接列表"
+            }
+          },
+          {
+            "id": "f4a79392086cd09c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "studing/专业课/操作系统总结.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "操作系统总结 的出链列表"
+            }
+          },
+          {
+            "id": "167b6fa7cff3d01d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "99410d2ef772877d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C-language/实战总结.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 实战总结"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4d687e0c50f36c8",
+  "lastOpenFiles": [
+    "Crypto/RSA/RSA攻击理论与代码.md",
+    "Crypto/RSA",
+    "复试/密码学.md",
+    "复试/签名算法.md",
+    "复试/机器学习.md",
+    "复试/区块链.md",
+    "复试/数据库.md",
+    "复试/网络协议.md",
+    "复试/网络安全.md",
+    "work-huaxin/漏洞/IPsec 漏洞.md",
+    "复试",
+    "work-huaxin/漏洞/IPsec VPN绕过.md",
+    "work-huaxin/kail/kail学习.md",
+    "work-huaxin/README.md",
+    "work-huaxin/ubuntu配置/基本命令.md",
+    "work-huaxin/kail/协议渗透工具.md",
+    "work-huaxin/CVE/README.md",
+    "work-huaxin/CVE/CVE-2024-6387/temp_data.md",
+    "work-huaxin/CVE/CVE-2024-6387/README.md",
+    "work-huaxin/CVE/CVE-2024-6387/CVE-2024-6387.md",
+    "work-huaxin/cisco-tools/disclosures-master/README.md",
+    "work-huaxin/cisco-tools/killasa/README.md",
+    "work-huaxin/cisco-tools/asa_tools-master/README.md",
+    "work-huaxin/文档/2024-07-17.md",
+    "work-huaxin/文档/2024-07-17.pdf",
+    "work-huaxin/文档/spa文件的导入.md",
+    "work-huaxin/日志/2024-07-15.md",
+    "work-huaxin/日志/2024-07-17.md",
+    "work-huaxin/日志/2024-06-11.md",
+    "work-huaxin/漏洞/pic/Pasted image 20240619152113.png",
+    "work-huaxin/漏洞/pic/Pasted image 20240619132627.png",
+    "work-huaxin/漏洞/pic/Pasted image 20240619111750.png",
+    "work-huaxin/漏洞/pic/Pasted image 20240619093342.png",
+    "work-huaxin/密码学/密码编程/C语言/图片/Pasted image 20240611160056.png",
+    "work-huaxin/密码学/密码编程/C语言/图片/Pasted image 20240611160026.png",
+    "work-huaxin/密码学/密码编程/C语言/图片/Pasted image 20240611155937.png",
+    "work-huaxin/密码学/密码编程/C语言/文档/Network Security with OpenSSL-O'Reilly.pdf",
+    "work-huaxin/密码学/密码编程/C语言/文档/Network Security with OpenSSL Ebook(O'Reilly).pdf",
+    "CogVideo-main/resources/videos/4.mp4",
+    "CogVideo-main/resources/videos/3.mp4",
+    "CogVideo-main/resources/videos/2.mp4",
+    "CogVideo-main/resources/videos/1.mp4",
+    "CogVideo-main/resources/wechat.jpg",
+    "CogVideo-main/resources/videos",
+    "CogVideo-main/resources/web_demo.png",
+    "CogVideo-main/resources/logo.svg",
+    "studing/未命名.canvas",
+    "studing/English-learn/word/未命名.canvas",
+    "studing/专业课/未命名.canvas",
+    "studing/专业课/未命名 1.canvas",
+    "mydata/studing/计划.canvas",
+    "studing/计划.canvas"
+  ]
+}
