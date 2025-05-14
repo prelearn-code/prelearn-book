@@ -6,7 +6,9 @@
 
 $\left(\frac{1}{3}\right) \cdot N^{\frac{1}{4}}$
 $m^{e}<n$
-
+$$
+m^{3}
+$$
 
 # 2. Coppersmith’s Method Attack
 
