@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/RSA/RSA攻击理论与代码.md",
+                "file": "C-language/代码总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA攻击理论与代码"
+              "title": "代码总结"
             }
           }
         ],
@@ -168,10 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "234cfae6908f7178",
+  "active": "d4d687e0c50f36c8",
   "lastOpenFiles": [
-    "Z-else/家教文档.md",
+    "C-language/基础操作.md",
+    "C-language/字符串处理.md",
+    "C-language/文件操作.md",
+    "C-language/基础知识.md",
+    "C-language/代码总结.md",
     "Crypto/RSA/RSA攻击理论与代码.md",
+    "Z-else/家教文档.md",
     "Z-else",
     "Crypto/RSA",
     "复试/密码学.md",
@@ -194,12 +199,7 @@
     "work-huaxin/CVE/CVE-2024-6387/CVE-2024-6387.md",
     "work-huaxin/cisco-tools/disclosures-master/README.md",
     "work-huaxin/cisco-tools/killasa/README.md",
-    "work-huaxin/cisco-tools/asa_tools-master/README.md",
-    "work-huaxin/文档/2024-07-17.md",
     "work-huaxin/文档/2024-07-17.pdf",
-    "work-huaxin/文档/spa文件的导入.md",
-    "work-huaxin/日志/2024-07-15.md",
-    "work-huaxin/日志/2024-07-17.md",
     "work-huaxin/漏洞/pic/Pasted image 20240619152113.png",
     "work-huaxin/漏洞/pic/Pasted image 20240619132627.png",
     "work-huaxin/漏洞/pic/Pasted image 20240619111750.png",
