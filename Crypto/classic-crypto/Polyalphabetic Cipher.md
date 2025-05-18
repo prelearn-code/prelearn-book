@@ -108,7 +108,7 @@ if __name__ == '__main__':
 
  首先生成一个代换表，行号、列号为a-z, ，如下图的密码代换表，然后输入明文与密钥，对于明文进行分组，然后就以明文的字符为横坐标，密钥的字符为纵坐标，然后查表到结果即是密文。
 
-![维吉尼亚表格](F:\prelearn-book\Crypto\classic-crypto\pic\vigenere1.jpg)
+![维吉尼亚表格](./pic/vigenere1.jpg)
 
 # Nihilist密码
 
