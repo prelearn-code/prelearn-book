@@ -110,6 +110,14 @@ if __name__ == '__main__':
 
 ![维吉尼亚表格](./pic/vigenere1.jpg)
 
+## 例子
+
+```python
+# 明文：come greatwall
+# 密钥：crypto
+# 密文：efkt zfgrrltzn
+```
+
 # Nihilist密码
 
 
